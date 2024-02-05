@@ -1,7 +1,7 @@
-![Cover](https://github.com/Aminebncd/Aminebncd/blob/main/img/yo.gif)
 
-Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
-Aspiring to become a Full Stack developer. 👨‍💻
+###Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
+
+###Aspiring to become a Full Stack developer. 👨‍💻
 
 ### About Me
 - 🌱 Currently learning languages: HTML, CSS, JS, PHP
@@ -18,3 +18,5 @@ Aspiring to become a Full Stack developer. 👨‍💻
 
 ### Check Out My Work
 - 🚀 [Project 1 - Cinephyle](https://github.com/Aminebncd/Cinephyle)
+
+![Cover](https://github.com/Aminebncd/Aminebncd/blob/main/img/yo.gif)
