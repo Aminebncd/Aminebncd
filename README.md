@@ -1,16 +1,19 @@
-### Hi there 👋
+![Waving](https://tenor.com/b0xSa8wYtkx.gif)
 
-<!--
-**Aminebncd/Aminebncd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. Aspiring to become a Full Stack developer. 👨‍💻
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 Currently learning languages: HTML, CSS, JS, PHP
+- 🚀 Exploring: TypeScript, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- 🏋️ Passionate about sports
+- 🎮 Gaming enthusiast, especially for FromSoftware titles
+- 🎌 Anime lover
+
+
+### Let's Connect!
+- LinkedIn: [AmineBncd on LinkedIn](https://www.linkedin.com/in/mohamed-amine-bounachada-9a2819200/)
+
+### Check Out My Work
+- 🚀 [Project 1 - Cinephyle](https://github.com/Aminebncd/Cinephyle)
