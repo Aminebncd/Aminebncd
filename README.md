@@ -3,6 +3,8 @@ Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France.
 
 Aspiring to become a Full Stack developer. 👨‍💻
 
+You can contact me @  aminebncd_pro@hotmail.com
+
 ### About Me
 - 🌱 Currently learning languages: HTML, CSS, JS, PHP
 - 🚀 Exploring: TypeScript, React, Node.js
