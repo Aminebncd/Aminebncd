@@ -1,4 +1,4 @@
-![Waving](https://tenor.com/b0xSa8wYtkx.gif)
+![Waving]([https://tenor.com/b0xSa8wYtkx.gif](https://tenor.com/fr/view/geto-suguru-yo-gif-1548404695050210079))
 
 Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. Aspiring to become a Full Stack developer. 👨‍💻
 
