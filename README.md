@@ -1,7 +1,7 @@
 
-#Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
+# Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
 
-##Aspiring to become a Full Stack developer. 👨‍💻
+## Aspiring to become a Full Stack developer. 👨‍💻
 
 You can contact me @  aminebncd_pro@hotmail.com
 
