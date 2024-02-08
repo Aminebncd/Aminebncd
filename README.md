@@ -1,7 +1,7 @@
 
-Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
+#Hello there! I'm AmineBncd, a student at Elan Formation in Strasbourg, France. 
 
-Aspiring to become a Full Stack developer. 👨‍💻
+##Aspiring to become a Full Stack developer. 👨‍💻
 
 You can contact me @  aminebncd_pro@hotmail.com
 
@@ -9,11 +9,14 @@ You can contact me @  aminebncd_pro@hotmail.com
 - 🌱 Currently learning languages: HTML, CSS, JS, PHP
 - 🚀 Exploring: TypeScript, React, Node.js
 
+### Languages i use on a daily basis
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminebncd&layout=donut)](https://github.com/Aminebcnd/github-readme-stats)
+
+
 ### Interests
 - 🏋️ Passionate about sports
 - 🎮 Gaming enthusiast, especially for FromSoftware titles
 - 🎌 Anime lover
-
 
 ### Let's Connect!
 - LinkedIn: [AmineBncd on LinkedIn](https://www.linkedin.com/in/mohamed-amine-bounachada-9a2819200/)
