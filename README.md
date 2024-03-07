@@ -7,7 +7,7 @@ You can contact me @  aminebncd_pro@hotmail.com
 
 ### About Me
 - 🌱 Currently learning languages: HTML, CSS, JS, PHP
-- 🚀 Exploring: TypeScript, React, Node.js
+- 🚀 Exploring: TypeScript, Symfony, React, Node.js
 
 ### Languages i use on a daily basis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminebncd&layout=donut)](https://github.com/Aminebcnd/github-readme-stats)
