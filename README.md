@@ -45,9 +45,6 @@ You can contact me @  aminebncd_pro@hotmail.com
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminebncd&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![aminebncd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminebncd&theme=material-palenight&hide_border=true)
-
-![aminebncd's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminebncd&theme=material-palenight&area=true&hide_border=true)
 
 ### Let's Connect!
 - LinkedIn: [AmineBncd on LinkedIn](https://www.linkedin.com/in/mohamed-amine-bounachada-9a2819200/)
