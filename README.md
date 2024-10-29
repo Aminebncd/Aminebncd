@@ -13,12 +13,6 @@ Location: Strasbourg, France<br>
 <br>
 Dedicated full-stack developer specializing in web and mobile application development, API integration, e-commerce applications, and performance optimization. Currently working in fintech, I design and optimize financial solutions, including fund management and financial information applications.<br>
 <br>
-🛠️ Technical Skills<br>
-Languages & Frameworks: PHP, HTML, CSS, JavaScript, Symfony<br>
-Databases: SQL, MariaDB, MongoDB<br>
-DevOps & Tools: Git, Docker, SourceTree, MremoteNG, FileZilla<br>
-CMS: WordPress, Shopify<br>
-<br>
 ### 📌 Key Projects<br>
 [MuscleMind](https://github.com/Aminebncd/MuscleMind)<br>
 Description: A personalized web application for fitness enthusiasts to track workouts and performance<br>
