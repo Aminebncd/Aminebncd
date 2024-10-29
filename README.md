@@ -17,7 +17,7 @@ Dedicated full-stack developer specializing in web and mobile application develo
 [MuscleMind](https://github.com/Aminebncd/MuscleMind)<br>
 Description: A personalized web application for fitness enthusiasts to track workouts and performance<br>
 <br>
-### Interests<br>
+### 😺 Interests<br>
 🏋️ Passionate about sports<br>
 🎮 Gaming enthusiast, especially for FromSoftware titles<br>
 🎌 Anime lover<br>
