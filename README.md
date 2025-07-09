@@ -7,7 +7,7 @@
 
 
 ## 💫 About Me:
-🌐 Mohamed Amine Bounachada - Full Stack Developer<br>
+🌐 Mohamed Amine - Full Stack Developer<br>
 Location: Strasbourg, France<br>
 📧 aminebncd_pro@hotmail.com<br>
 <br>
