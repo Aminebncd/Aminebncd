@@ -56,6 +56,7 @@ I'm currently open to new challenges in highly technical environments (Fintech, 
 
 <div align="center">
   <i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</i> - John Woods
+  <br><br><br><br>
 </div>
 
 
