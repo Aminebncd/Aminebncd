@@ -58,10 +58,5 @@ I'm currently open to new challenges in highly technical environments (Fintech, 
   <i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</i> - John Woods
 </div>
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ![Cover](https://github.com/Aminebncd/Aminebncd/blob/main/img/yo.gif)
