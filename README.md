@@ -12,7 +12,7 @@
 📍 Location: Strasbourg, France (Open to Relocation: Switzerland / Luxembourg)<br>
 📧 aminebncd_pro@hotmail.com<br>
 <br>
-Dedicated **Full Stack Engineer** specializing in the conception and maintenance of complex web architectures for high-demand sectors. Currently working in the **Fintech** industry, I focus on building secure, scalable SaaS solutions, managing critical financial data (KYC/AML), and modernizing legacy codebases into robust MVC architectures (PSR-4, API Platform).<br>
+Dedicated **Full Stack Engineer** specializing in the conception and maintenance of complex web architectures for high-demand sectors. Currently working in the **Fintech** industry, I focus on building secure, scalable SaaS solutions, managing critical financial data, and modernizing legacy codebases into robust MVC architectures.<br>
 <br>
 
 ### 📌 Core Competencies & Interests
