@@ -9,7 +9,7 @@
 ## 💫 About Me:
 
 🌐 **Mohamed Amine Bounachada** - Senior Full Stack Engineer<br>
-📍 Location: Strasbourg, France (Open to Relocation: Luxembourg / Switzerland)<br>
+📍 Location: Strasbourg, France (Open to Relocation)<br>
 📧 aminebncd_pro@hotmail.com<br>
 <br>
 Dedicated **Software Engineer** specializing in the conception and maintenance of highly available, event-driven architectures for high-demand sectors. Currently working in the **Fintech** industry, I focus on building secure, scalable B2B SaaS solutions, managing critical financial workflows, and decoupling synchronous bottlenecks using modern message brokers.<br>
